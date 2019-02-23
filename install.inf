@@ -3,3 +3,4 @@ title=Linter for Haskell, using GHC
 desc=Linter for CudaLint, adds support for Haskell lexer, uses GHC
 type=cudatext-plugin
 subdir=cuda_lint_haskell_ghc
+homepage=https://github.com/CudaText-addons/cuda_lint_haskell_ghc
